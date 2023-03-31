@@ -1,0 +1,2 @@
+# inamagnu
+gnu ll1
